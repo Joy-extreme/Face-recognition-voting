@@ -1,0 +1,305 @@
+run:
+Enter your directory : F:\Programming\VotingSystem\src\Spl_project
+
+|-----------------------------Information---------------------------------------|
+ File number: 1
+ File name: CropppingOfImage.java
+ Package name: FaceRecognition
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 2.365234375
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 70
+ number of commented lines: 18
+ number of non commented lines: 52
+ number of blank lines: 13
+ Comment density: 0.2571428571428571
+ number of importing lines: 10
+ numbers of statements: 29
+ Number of characters: 2422
+ Average number of characters per line: 34.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 2
+ File name: FaceSimillarityPercentage.java
+ Package name: FaceRecognition
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 0.9443359375
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 42
+ number of commented lines: 9
+ number of non commented lines: 33
+ number of blank lines: 14
+ Comment density: 0.21428571428571427
+ number of importing lines: 0
+ numbers of statements: 11
+ Number of characters: 967
+ Average number of characters per line: 23.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 3
+ File name: HistogramEqui.java
+ Package name: FaceRecognition
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 1.7568359375
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 63
+ number of commented lines: 14
+ number of non commented lines: 49
+ number of blank lines: 17
+ Comment density: 0.2222222222222222
+ number of importing lines: 7
+ numbers of statements: 26
+ Number of characters: 1799
+ Average number of characters per line: 28.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 4
+ File name: ImageLoad.java
+ Package name: FaceRecognition
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 6.62890625
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 186
+ number of commented lines: 42
+ number of non commented lines: 144
+ number of blank lines: 38
+ Comment density: 0.22580645161290322
+ number of importing lines: 8
+ numbers of statements: 75
+ Number of characters: 6788
+ Average number of characters per line: 36.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 5
+ File name: ImageToPixel.java
+ Package name: FaceRecognition
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 4.9921875
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 172
+ number of commented lines: 28
+ number of non commented lines: 144
+ number of blank lines: 61
+ Comment density: 0.16279069767441862
+ number of importing lines: 5
+ numbers of statements: 58
+ Number of characters: 5112
+ Average number of characters per line: 29.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 6
+ File name: WebcameCapture.java
+ Package name: FaceRecognition
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 1.9970703125
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 58
+ number of commented lines: 15
+ number of non commented lines: 43
+ number of blank lines: 6
+ Comment density: 0.25862068965517243
+ number of importing lines: 11
+ numbers of statements: 27
+ Number of characters: 2045
+ Average number of characters per line: 35.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 7
+ File name: AdminMainClass.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 1.7587890625
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 69
+ number of commented lines: 12
+ number of non commented lines: 57
+ number of blank lines: 28
+ Comment density: 0.17391304347826086
+ number of importing lines: 1
+ numbers of statements: 23
+ Number of characters: 1801
+ Average number of characters per line: 26.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 8
+ File name: AdminPanel.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 21.84375
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 597
+ number of commented lines: 163
+ number of non commented lines: 434
+ number of blank lines: 81
+ Comment density: 0.2730318257956449
+ number of importing lines: 22
+ numbers of statements: 294
+ Number of characters: 22368
+ Average number of characters per line: 37.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 9
+ File name: EndingPageOfVoter.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 5.5078125
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 161
+ number of commented lines: 50
+ number of non commented lines: 111
+ number of blank lines: 24
+ Comment density: 0.3105590062111801
+ number of importing lines: 12
+ numbers of statements: 83
+ Number of characters: 5640
+ Average number of characters per line: 35.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 10
+ File name: PasswordCheck.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 6.380859375
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 184
+ number of commented lines: 52
+ number of non commented lines: 132
+ number of blank lines: 25
+ Comment density: 0.2826086956521739
+ number of importing lines: 15
+ numbers of statements: 85
+ Number of characters: 6534
+ Average number of characters per line: 35.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 11
+ File name: ResultPanel.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 13.1650390625
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 357
+ number of commented lines: 106
+ number of non commented lines: 251
+ number of blank lines: 66
+ Comment density: 0.2969187675070028
+ number of importing lines: 17
+ numbers of statements: 174
+ Number of characters: 13481
+ Average number of characters per line: 37.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 12
+ File name: StartingPageOfVoter.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 5.8896484375
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 178
+ number of commented lines: 55
+ number of non commented lines: 123
+ number of blank lines: 34
+ Comment density: 0.3089887640449438
+ number of importing lines: 14
+ numbers of statements: 81
+ Number of characters: 6031
+ Average number of characters per line: 33.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 13
+ File name: UserMainClass.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 0.865234375
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 31
+ number of commented lines: 11
+ number of non commented lines: 20
+ number of blank lines: 5
+ Comment density: 0.3548387096774194
+ number of importing lines: 2
+ numbers of statements: 9
+ Number of characters: 886
+ Average number of characters per line: 28.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 14
+ File name: UserPanel.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 8.3720703125
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 224
+ number of commented lines: 61
+ number of non commented lines: 163
+ number of blank lines: 44
+ Comment density: 0.27232142857142855
+ number of importing lines: 15
+ numbers of statements: 105
+ Number of characters: 8573
+ Average number of characters per line: 38.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 15
+ File name: VoterPanel.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 10.7802734375
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 334
+ number of commented lines: 82
+ number of non commented lines: 252
+ number of blank lines: 79
+ Comment density: 0.24550898203592814
+ number of importing lines: 16
+ numbers of statements: 156
+ Number of characters: 11039
+ Average number of characters per line: 33.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Information---------------------------------------|
+ File number: 16
+ File name: WelcomePage.java
+ Package name: UserInterface
+ ------------------------------------------------------------------------------ 
+ Size of file (kilo bytes): 3.041015625
+ ------------------------------------------------------------------------------ 
+ number of lines(with blank lines): 94
+ number of commented lines: 31
+ number of non commented lines: 63
+ number of blank lines: 20
+ Comment density: 0.32978723404255317
+ number of importing lines: 9
+ numbers of statements: 41
+ Number of characters: 3114
+ Average number of characters per line: 33.0
+ ------------------------------------------------------------------------------ 
+
+|-----------------------------Summary---------------------------------------------|
+ Total File number: 16
+ Total File size(in kilo bytes): 96.2890625
+ ------------------------------------------------------------------------------ 
+ Total number of lines(with blank lines): 2820
+ Total number of commented lines: 749
+ Total number of non commented lines: 2071
+ Total number of blank lines: 555
+ Total number of importing lines: 164
+ Total numbers of statements: 1277
+ Total Number of characters: 98600
+ Number of characters per line: 34
+ ------------------------------------------------------------------------------ 
+BUILD SUCCESSFUL (total time: 10 seconds)
